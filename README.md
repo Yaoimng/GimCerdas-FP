@@ -68,11 +68,11 @@ Game menggunakan skema kontrol Keyboard standar:
 
 Game ini memiliki dua level utama dengan karakteristik visual dan tantangan yang berbeda.
 
-### 3.1 Map 1: Neon City (Kota)
-* **Tema Visual**: Perkotaan futuristik saat matahari terbenam (*Sunset*). Didominasi warna ungu, pink, dan oranye.
+### 3.1 Map 1:  City (Kota)
+* **Tema Visual**: Perkotaan saat matahari terbenam (*Sunset*). Didominasi warna Hijau, abu-abu, dan pink.
 * **Karakteristik Trek**:
     * Jalan aspal mulus.
-    * Tikungan 90 derajat yang tajam (membutuhkan *drift*).
+    * Tikungan 90 derajat yang tajam.
     * Terdapat jembatan layang (*overpass*) dan terowongan gedung.
     * Rintangan berupa trotoar ,bangunan tinggi, dan jalan sempit.
 
