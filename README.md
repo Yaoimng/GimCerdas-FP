@@ -74,14 +74,12 @@ Game ini memiliki dua level utama dengan karakteristik visual dan tantangan yang
     * Jalan aspal mulus.
     * Tikungan 90 derajat yang tajam (membutuhkan *drift*).
     * Terdapat jembatan layang (*overpass*) dan terowongan gedung.
-    * Rintangan berupa trotoar dan bangunan tinggi.
+    * Rintangan berupa trotoar ,bangunan tinggi, dan jalan sempit.
 
 ### 3.2 Map 2: Desert Canyon (Gurun)
 * **Tema Visual**: Gurun tandus dengan tebing batu merah dan langit biru cerah/terik.
 * **Karakteristik Trek**:
-    * Jalan berdebu dan sedikit licin.
     * Kontur tanah yang tidak rata (naik-turun).
-    * Lintasan lebih lebar namun minim pembatas jalan (risiko terlempar keluar jalur).
     * Pemandangan piramida dan kaktus sebagai *landmark*.
 
 ---
@@ -99,11 +97,10 @@ Proyek menggunakan arsitektur *Multi-Scene*:
 1.  `IntroMenu`: Scene khusus untuk UI dan pemilihan level.
 2.  `Map_City`: Scene gameplay untuk trek kota.
 3.  `Map_Desert`: Scene gameplay untuk trek gurun.
-4.  Data lap dan pemilihan level dikirim antar scene menggunakan `PlayerPrefs`.
 
 ---
 
-## 6. Future Roadmap (Rencana Pengembangan)
+## 5. Future Roadmap (Rencana Pengembangan)
 * [ ] Menambahkan sistem *Power-ups* (Boost, Trap).
 * [ ] Menambahkan variasi Karakter/Mobil dengan statistik berbeda.
 * [ ] Implementasi *Local Multiplayer* (Split-screen).
