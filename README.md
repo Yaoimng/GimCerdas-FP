@@ -27,7 +27,7 @@
 
 | Main Menu | Gameplay |
 | :---: | :---: |
-| <img width="958" height="538" alt="image" src="https://github.com/user-attachments/assets/7a9b4c02-5358-412f-a88c-908c4d3b6a84" /> | <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/84a9fcc9-7807-4648-b765-e2d91cb3d401" /> |
+| <img width="958" height="538" alt="image" src="https://github.com/user-attachments/assets/b6b53b85-3f51-4f37-8036-b74514ed5148" /> | <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/84a9fcc9-7807-4648-b765-e2d91cb3d401" /> |
 
 | Map Overview | Environment |
 | :---: | :---: |
