@@ -31,7 +31,7 @@
 
 | Map Overview | Environment |
 | :---: | :---: |
-| <img width="1036" height="532" alt="image" src="https://github.com/user-attachments/assets/d50d7b5d-56f9-414a-92ff-5fe53c675dbb" /> | <img width="1036" height="533" alt="image" src="https://github.com/user-attachments/assets/b6d6f081-ff8c-483b-a083-bc5075a94b81" /> |
+| <img width="686" height="526" alt="image" src="https://github.com/user-attachments/assets/dd4ca139-f0d6-4c7b-b9b4-676456dbb432" /> | <img width="1036" height="533" alt="image" src="https://github.com/user-attachments/assets/b6d6f081-ff8c-483b-a083-bc5075a94b81" /> |
 
 > *Visual game menampilkan estetika low-poly dengan pencahayaan bergaya synthwave/sunset.*
 
