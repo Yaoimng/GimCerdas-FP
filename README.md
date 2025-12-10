@@ -56,7 +56,6 @@ Game menggunakan skema kontrol Keyboard standar:
 | **S / ↓** | Rem / Mundur |
 | **A / ←** | Belok Kiri |
 | **D / →** | Belok Kanan |
-| **Spacebar** | Drift / Rem Tangan |
 | **Tab** | Menu Pause |
 
 ### 2.3 Mekanisme AI (Kecerdasan Buatan)
